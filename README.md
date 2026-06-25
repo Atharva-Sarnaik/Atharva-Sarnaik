@@ -1,4 +1,5 @@
 # Hey, I'm Atharva 👋
+<img width="720" height="444" alt="madara-reality2" src="https://github.com/user-attachments/assets/bb1ac743-35e0-4be4-ada5-0785e0641930" />
 
 **AI & Data Science student** at Government College of Engineering, Kolhapur — building real AI products, not just assignments.
 
