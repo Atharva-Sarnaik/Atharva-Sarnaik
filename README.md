@@ -19,42 +19,6 @@ I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ APEX Trade AI</h3>
-      <p><i>Institutional Intelligence OS</i></p>
-      <p>Autonomous algorithmic trading system with a 4-model ML ensemble + blockchain-verified signal ledger.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white" alt="Polygon"/>
-      </p>
-      <ul>
-        <li>🤖 4-model ensemble: XGBoost + LightGBM + BiLSTM + Transformer</li>
-        <li>⛓️ SHA-256 signal hashing anchored on Polygon Amoy blockchain</li>
-        <li>📊 Half-Kelly risk engine + live Next.js institutional dashboard</li>
-        <li>🔄 Runs 24/7 as autonomous Windows service</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 NeuroFlow</h3>
-      <p><i>AI-Powered Learning OS</i></p>
-      <p>Gamified ML curriculum platform with live sandboxed code execution and Gemini AI tutoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js 14"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Gemini%202.0%20Flash-4285F4?style=flat&logo=google-gemini&logoColor=white" alt="Gemini 2.0 Flash"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-      </p>
-      <ul>
-        <li>⚡ Real-time algorithmic visualizers for ML concepts</li>
-        <li>🐍 Sandboxed Python execution via Piston API (zero setup)</li>
-        <li>🤖 Gemini 2.0 Flash as context-aware AI tutor</li>
-        <li>🎨 Custom "Liquid Glass" design system</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🎙️ Koe Scroll</h3>
       <p><i>Manga that speaks back.</i></p>
       <p>A cross-platform AI manga dubbing system. Gemini 2.5 Flash reads panels in Japanese order, extracting dialogue, while ElevenLabs voices characters. Built for the dreamflow Buildathon.</p>
