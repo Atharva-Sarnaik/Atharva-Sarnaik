@@ -16,18 +16,100 @@ I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI
 
 ## 🚀 Things I've built
 
-| | |
-| :--- | :--- |
-| **🎙️ Koe Scroll**<br>*Manga that speaks back.*<br><br>A cross-platform AI manga dubbing system. Gemini 2.5 Flash reads panels in Japanese order, extracting dialogue, while ElevenLabs voices characters. Built for the Dreamflow Buildathon.<br><br>• Custom `ScriptPostProcessor` for geometric clustering<br>• Cross-platform sync (web to mobile)<br>• Voice Lab pronunciation overrides<br><br>`TypeScript` `React Native` `Gemini 2.5 Flash` `ElevenLabs` `Supabase`<br><br>[Repo](https://github.com/Atharva-Sarnaik/Koe-Scroll) · [Live](https://koe-scroll.vercel.app) | **🤖 QA Autopilot**<br>*Autonomous, LLM-driven browser testing tool.*<br><br>Accepts natural language goals and uses AI to autonomously navigate, interact, and assert conditions on web pages. Features a real-time SSE dashboard and aggressive success detection to prevent hallucinations.<br><br>`Next.js 16` `Python` `Playwright` `Prisma` `Groq / OpenAI` |
-| **👗 Virtual Try-On System**<br>*Try before you buy, no changing room needed.*<br><br>A computer vision pipeline for garment overlay using pose estimation. Users upload a photo and a clothing item — the system aligns and composites the garment realistically onto the person.<br><br>`Python` `OpenCV` `Pose Estimation` `HTML`<br><br>[Repo](https://github.com/Atharva-Sarnaik/Virtual-Try-On-System) | **📊 AI Feedback Sentiment Analyzer**<br>*Turning 500 feedback forms into actionable reports.*<br><br>Transformer-based NLP pipeline that classifies multi-class sentiment and topics across bulk student feedback, then auto-generates per-instructor analytical reports. Cut manual processing time by 80%.<br><br>`Python` `Transformers` `Express` `Node.js` |
-
----
-
-## 🏆 Hackathons & Leadership
-
-* **Team Leader** — Smart India Hackathon (SIH)
-* **Participant** — AI for Bharat Hackathon
-* **Participant** — dreamflow Buildathon
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ APEX Trade AI</h3>
+      <p><i>Institutional Intelligence OS</i></p>
+      <p>Autonomous algorithmic trading system with a 4-model ML ensemble + blockchain-verified signal ledger.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white" alt="Polygon"/>
+      </p>
+      <ul>
+        <li>🤖 4-model ensemble: XGBoost + LightGBM + BiLSTM + Transformer</li>
+        <li>⛓️ SHA-256 signal hashing anchored on Polygon Amoy blockchain</li>
+        <li>📊 Half-Kelly risk engine + live Next.js institutional dashboard</li>
+        <li>🔄 Runs 24/7 as autonomous Windows service</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuroFlow</h3>
+      <p><i>AI-Powered Learning OS</i></p>
+      <p>Gamified ML curriculum platform with live sandboxed code execution and Gemini AI tutoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js 14"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Gemini%202.0%20Flash-4285F4?style=flat&logo=google-gemini&logoColor=white" alt="Gemini 2.0 Flash"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+      </p>
+      <ul>
+        <li>⚡ Real-time algorithmic visualizers for ML concepts</li>
+        <li>🐍 Sandboxed Python execution via Piston API (zero setup)</li>
+        <li>🤖 Gemini 2.0 Flash as context-aware AI tutor</li>
+        <li>🎨 Custom "Liquid Glass" design system</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Koe Scroll</h3>
+      <p><i>Manga that speaks back.</i></p>
+      <p>A cross-platform AI manga dubbing system. Gemini 2.5 Flash reads panels in Japanese order, extracting dialogue, while ElevenLabs voices characters. Built for the dreamflow Buildathon.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google-gemini&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+      </p>
+      <ul>
+        <li>Custom <code>ScriptPostProcessor</code> for geometric clustering</li>
+        <li>Cross-platform sync (web to mobile)</li>
+        <li>Voice Lab pronunciation overrides</li>
+      </ul>
+      <p><a href="https://github.com/Atharva-Sarnaik/Koe-Scroll">Repo</a> · <a href="https://koe-scroll.vercel.app">Live</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 QA Autopilot</h3>
+      <p><i>Autonomous, LLM-driven browser testing tool.</i></p>
+      <p>Accepts natural language goals and uses AI to autonomously navigate, interact, and assert conditions on web pages. Features a real-time SSE dashboard and aggressive success detection to prevent hallucinations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/Groq%20%2F%20OpenAI-000000?style=flat&logo=openai&logoColor=white" alt="Groq / OpenAI"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👗 Virtual Try-On System</h3>
+      <p><i>Try before you buy, no changing room needed.</i></p>
+      <p>A computer vision pipeline for garment overlay using pose estimation. Users upload a photo and a clothing item — the system aligns and composites the garment realistically onto the person.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+      </p>
+      <p><a href="https://github.com/Atharva-Sarnaik/Virtual-Try-On-System">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 AI Feedback Sentiment Analyzer</h3>
+      <p><i>Turning 500 feedback forms into actionable reports.</i></p>
+      <p>Transformer-based NLP pipeline that classifies multi-class sentiment and topics across bulk student feedback, then auto-generates per-instructor analytical reports. Cut manual processing time by 80%.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Transformers"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
