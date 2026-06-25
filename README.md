@@ -1,17 +1,26 @@
+<div align="center">
+
 # Hey, I'm Atharva 👋
+
 <img width="720" height="444" alt="madara-reality2" src="https://github.com/user-attachments/assets/bb1ac743-35e0-4be4-ada5-0785e0641930" />
+
+<br><br>
 
 **AI & Data Science student** at Government College of Engineering, Kolhapur — building real AI products, not just assignments.
 
 I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI apps**. Currently looking for **AI Engineer / ML Intern** roles where I can ship things that matter.
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sarnaik-b9a2b627b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarnaikatharva13@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-atharvas.vercel.app/)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Atharva-Sarnaik&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Atharva-Sarnaik&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
