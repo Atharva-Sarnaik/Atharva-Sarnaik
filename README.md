@@ -122,4 +122,4 @@ I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI
 
 ---
 
-*3rd Year B.Tech · AI & Data Science (DBATU) · 2023–2027*
+*3rd Year B.Tech · AI & Data Science · 2023–2027*
