@@ -4,7 +4,13 @@
 
 I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI apps**. Currently looking for **AI Engineer / ML Intern** roles where I can ship things that matter.
 
-📬 [sarnaikatharva13@gmail.com](mailto:sarnaikatharva13@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/atharva-sarnaik-b9a2b627b) &nbsp;·&nbsp; 🌐 [Portfolio](https://github.com/Atharva-Sarnaik/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sarnaik-b9a2b627b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarnaikatharva13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-atharvas.vercel.app/)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Atharva-Sarnaik&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -14,6 +20,14 @@ I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI
 | :--- | :--- |
 | **🎙️ Koe Scroll**<br>*Manga that speaks back.*<br><br>A cross-platform AI manga dubbing system. Gemini 2.5 Flash reads panels in Japanese order, extracting dialogue, while ElevenLabs voices characters. Built for the Dreamflow Buildathon.<br><br>• Custom `ScriptPostProcessor` for geometric clustering<br>• Cross-platform sync (web to mobile)<br>• Voice Lab pronunciation overrides<br><br>`TypeScript` `React Native` `Gemini 2.5 Flash` `ElevenLabs` `Supabase`<br><br>[Repo](https://github.com/Atharva-Sarnaik/Koe-Scroll) · [Live](https://koe-scroll.vercel.app) | **🤖 QA Autopilot**<br>*Autonomous, LLM-driven browser testing tool.*<br><br>Accepts natural language goals and uses AI to autonomously navigate, interact, and assert conditions on web pages. Features a real-time SSE dashboard and aggressive success detection to prevent hallucinations.<br><br>`Next.js 16` `Python` `Playwright` `Prisma` `Groq / OpenAI` |
 | **👗 Virtual Try-On System**<br>*Try before you buy, no changing room needed.*<br><br>A computer vision pipeline for garment overlay using pose estimation. Users upload a photo and a clothing item — the system aligns and composites the garment realistically onto the person.<br><br>`Python` `OpenCV` `Pose Estimation` `HTML`<br><br>[Repo](https://github.com/Atharva-Sarnaik/Virtual-Try-On-System) | **📊 AI Feedback Sentiment Analyzer**<br>*Turning 500 feedback forms into actionable reports.*<br><br>Transformer-based NLP pipeline that classifies multi-class sentiment and topics across bulk student feedback, then auto-generates per-instructor analytical reports. Cut manual processing time by 80%.<br><br>`Python` `Transformers` `Express` `Node.js` |
+
+---
+
+## 🏆 Hackathons & Leadership
+
+* **Team Leader** — Smart India Hackathon (SIH)
+* **Participant** — AI for Bharat Hackathon
+* **Participant** — dreamflow Buildathon
 
 ---
 
