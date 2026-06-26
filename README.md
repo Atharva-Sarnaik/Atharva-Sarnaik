@@ -2,10 +2,8 @@
 
 # Hey, I'm Atharva 👋
 
-<img width="720" height="444" alt="madara-reality2" src="https://github.com/user-attachments/assets/bb1ac743-35e0-4be4-ada5-0785e0641930" />
-
+<img width="736" height="414" alt="Car-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/00364613-e4b5-4ba1-99fe-0a43456da2bd" />
 <br><br>
-
 **AI & Data Science student** at Government College of Engineering, Kolhapur — building real AI products, not just assignments.
 
 I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI apps**. Currently looking for **AI Engineer / ML Intern** roles where I can ship things that matter.
