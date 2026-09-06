@@ -4,9 +4,9 @@
 
 <img width="736" height="414" alt="Car-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/00364613-e4b5-4ba1-99fe-0a43456da2bd" />
 <br><br>
-**AI & Data Science student** at Government College of Engineering, Kolhapur — building real AI products, not just assignments.
+**AI & Data Science student** at Government College of Engineering, Kolhapur — AI-assisted developer building software and automation tools, currently transitioning into the Salesforce ecosystem. .
 
-I'm interested in **generative AI**, **multimodal systems**, and **full-stack AI apps**. Currently looking for **AI Engineer / ML Intern** roles where I can ship things that matter.
+Developing foundational Salesforce Administrator knowledge (Trailhead), with the goal of specializing in Agentforce (AI agent development on Salesforce). Basic, coursework-level understanding of machine learning and deep learning — looking to contribute as a Salesforce / CRM Technology Intern. 
 
 <br>
 
