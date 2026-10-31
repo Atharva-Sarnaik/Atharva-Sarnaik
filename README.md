@@ -7,6 +7,8 @@
 **AI & Data Science undergraduate** at Government College of Engineering, Kolhapur — AI & Full-Stack Developer building AI-powered applications and software solutions. Hands-on experience with Generative AI, NLP, LLM integrations and full-stack development. Exploring AI agents and advanced AI engineering, with a focus on building practical, real-world applications. 
 
 <br>
+<br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sarnaik-b9a2b627b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarnaikatharva13@gmail.com)
